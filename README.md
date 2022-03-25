@@ -26,3 +26,4 @@
 
 - 리액트관련 해서 간단히 테스트 해보면서 기록하고 싶은경우엔 Repo 양식 : jujihong-react
 - 나머지 관련해선 Repo 양식 : jujihong-js-cs-interview 이렇게 repo 생성하셔서 올려주시면 작업해주시면 될 것 같습니다.
+- 각각 레포지토리 관련해선 Public으로 만들어주시면 될 것 같습니다.
